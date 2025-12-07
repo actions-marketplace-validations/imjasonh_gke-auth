@@ -5,7 +5,7 @@ go 1.22.0
 toolchain go1.22.3
 
 require (
-	github.com/docker/cli v28.0.1+incompatible
+	github.com/docker/cli v29.1.2+incompatible
 	golang.org/x/oauth2 v0.21.0
 	k8s.io/apimachinery v0.30.2
 	k8s.io/client-go v0.30.2
@@ -22,7 +22,6 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	golang.org/x/net v0.25.0 // indirect
